@@ -27,10 +27,6 @@ Fitur motivasi harian di halaman Beranda.
 - Menampilkan kutipan bijak (*Quotes*) yang berbeda setiap kali aplikasi dibuka atau disegarkan (*Refresh*).
 - Data diambil secara acak dari server DummyJSON.
 
-### 3. ⚡ Manajemen State & Asynchronous
-- **Loading State:** Menampilkan indikator loading (*CircularProgressIndicator*) saat data sedang diambil.
-- **Error Handling:** Menampilkan pesan kesalahan yang ramah pengguna jika koneksi internet terputus atau data tidak ditemukan.
-- **Pull-to-Refresh:** Memungkinkan pengguna memperbarui data dengan mudah.
 
 ---
 
