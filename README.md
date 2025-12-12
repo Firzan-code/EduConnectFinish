@@ -10,8 +10,6 @@
 |:------------------:|:-----------:|:-----------:|:--------------:|
 | ![Home](assets/home.png) | ![Search](assets/search.png) | ![Detail](assets/detail.png) | ![Error](assets/error.png) |
 
-*(Pastikan Anda mengupdate file gambar di folder assets/ screenshot di repo Anda)*
-
 ---
 
 ## 🚀 **Fitur Utama (Key Features)**
@@ -26,7 +24,6 @@ Fitur unggulan yang memungkinkan pengguna mencari jutaan referensi buku.
 Fitur motivasi harian di halaman Beranda.
 - Menampilkan kutipan bijak (*Quotes*) yang berbeda setiap kali aplikasi dibuka atau disegarkan (*Refresh*).
 - Data diambil secara acak dari server DummyJSON.
-
 
 ---
 
